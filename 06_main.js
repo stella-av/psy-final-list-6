@@ -35,7 +35,6 @@ $("document").ready(function() {
             Polar2,
             COMP1,
             INF2,
-            
 
             //sentence 2                    
             Polar4,
@@ -56,8 +55,8 @@ $("document").ready(function() {
             // FILLERS
              // 28
              Filler_HowMany8,
-             Filler_Answer28,
-             Filler_INF28,
+             Filler_Answer30,
+             Filler_INF30,
  
              //56
              Filler_Did14,
@@ -81,8 +80,8 @@ $("document").ready(function() {
  
              //37
              Filler_What9,
-             Filler_Answer37,
-             Filler_INF37,
+             Filler_Answer35,
+             Filler_INF35,
  
              //26
              Filler_Polar8,
@@ -111,8 +110,8 @@ $("document").ready(function() {
  
              //70
              Filler_What18,
-             Filler_Answer70,
-             Filler_INF70,
+             Filler_Answer68,
+             Filler_INF68,
 
             
             // COND 3(what-comp)
@@ -151,13 +150,13 @@ $("document").ready(function() {
             // FILLER??
             // 54
             Filler_What14,
-            Filler_Answer54,
-            Filler_INF54,
+            Filler_Answer52,
+            Filler_INF52,
 
             //20
             Filler_HowMany6,
-            Filler_Answer20,
-            Filler_INF20,
+            Filler_Answer22,
+            Filler_INF22,
 
             //17
             Filler_Polar5,
@@ -186,8 +185,8 @@ $("document").ready(function() {
 
             //44
             Filler_HowMany12,
-            Filler_Answer44,
-            Filler_INF44,
+            Filler_Answer46,
+            Filler_INF46,
 
             //50
             Filler_Polar14,
@@ -255,8 +254,8 @@ $("document").ready(function() {
  
              //45
              Filler_What11,
-             Filler_Answer45,
-             Filler_INF45,
+             Filler_Answer43,
+             Filler_INF43,
  
              //7
              Filler_Did1,
@@ -275,13 +274,13 @@ $("document").ready(function() {
  
              //69
              Filler_What17,
-             Filler_Answer69,
-             Filler_INF69,
+             Filler_Answer67,
+             Filler_INF67,
  
              //68
              Filler_HowMany18,
-             Filler_Answer68,
-             Filler_INF68,
+             Filler_Answer70,
+             Filler_INF70,
  
              //65
              Filler_Polar17,
@@ -295,8 +294,8 @@ $("document").ready(function() {
  
              //36
              Filler_HowMany10,
-             Filler_Answer36,
-             Filler_INF36,
+             Filler_Answer38,
+             Filler_INF38,
  
              //48
              Filler_Did12,
@@ -346,8 +345,8 @@ $("document").ready(function() {
             // FILLERS??
             // 51
             Filler_HowMany13,
-            Filler_Answer51,
-            Filler_INF51,
+            Filler_Answer53,
+            Filler_INF53,
 
             //25
             Filler_Polar7,
@@ -356,8 +355,8 @@ $("document").ready(function() {
 
             //27
             Filler_HowMany7,
-            Filler_Answer27,
-            Filler_INF27,
+            Filler_Answer29,
+            Filler_INF29,
 
             // 11
             Filler_What3,
@@ -381,13 +380,13 @@ $("document").ready(function() {
 
             //67
             Filler_HowMany17,
-            Filler_Answer67,
-            Filler_INF67,
+            Filler_Answer69,
+            Filler_INF69,
 
             //60
             Filler_HowMany16,
-            Filler_Answer60,
-            Filler_INF60,
+            Filler_Answer62,
+            Filler_INF62,
 
             //49
             Filler_Polar13,
@@ -401,8 +400,8 @@ $("document").ready(function() {
 
             //59
             Filler_HowMany15,
-            Filler_Answer59,
-            Filler_INF59,
+            Filler_Answer61,
+            Filler_INF61,
 
 
 
@@ -457,8 +456,8 @@ $("document").ready(function() {
  
              // 52
              Filler_HowMany14,
-             Filler_Answer52,
-             Filler_INF52,
+             Filler_Answer54,
+             Filler_INF54,
  
              //2
              Filler_Polar2,
@@ -467,8 +466,8 @@ $("document").ready(function() {
  
              //62
              Filler_What16,
-             Filler_Answer62,
-             Filler_INF62,
+             Filler_Answer60,
+             Filler_INF60,
  
              //10
              Filler_Polar4,
@@ -477,13 +476,13 @@ $("document").ready(function() {
  
              //46
              Filler_What12,
-             Filler_Answer46,
-             Filler_INF46,
+             Filler_Answer44,
+             Filler_INF44,
  
              //43
              Filler_HowMany11,
-             Filler_Answer43,
-             Filler_INF43,
+             Filler_Answer45,
+             Filler_INF45,
  
              //12
              Filler_What4,
@@ -492,8 +491,8 @@ $("document").ready(function() {
  
              //29
              Filler_What7,
-             Filler_Answer29,
-             Filler_INF29,
+             Filler_Answer27,
+             Filler_INF27,
  
              //57
              Filler_Polar15,
@@ -540,8 +539,8 @@ $("document").ready(function() {
             
              // 30
              Filler_What8,
-             Filler_Answer30,
-             Filler_INF30,
+             Filler_Answer28,
+             Filler_INF28,
  
              //39
              Filler_Did9,
@@ -550,8 +549,8 @@ $("document").ready(function() {
  
              //19
              Filler_HowMany5,
-             Filler_Answer19,
-             Filler_INF19,
+             Filler_Answer21,
+             Filler_INF21,
  
              // 40
              Filler_Did10,
@@ -565,13 +564,13 @@ $("document").ready(function() {
  
              //61
              Filler_What15,
-             Filler_Answer61,
-             Filler_INF61,
+             Filler_Answer59,
+             Filler_INF59,
  
              //53
              Filler_What13,
-             Filler_Answer53,
-             Filler_INF53,
+             Filler_Answer51,
+             Filler_INF51,
  
              //1
              Filler_Polar1,
@@ -580,8 +579,8 @@ $("document").ready(function() {
  
              //35
              Filler_HowMany9,
-             Filler_Answer35,
-             Filler_INF35,
+             Filler_Answer37,
+             Filler_INF37,
  
              //15
              Filler_Did3,
@@ -590,16 +589,13 @@ $("document").ready(function() {
  
              //22
              Filler_What6,
-             Filler_Answer22,
-             Filler_INF22,
+             Filler_Answer20,
+             Filler_INF20,
  
              //38
              Filler_What10,
-             Filler_Answer38,
-             Filler_INF38,
-
-            
-
+             Filler_Answer36,
+             Filler_INF36,
 
             //list1,
             post_test,
