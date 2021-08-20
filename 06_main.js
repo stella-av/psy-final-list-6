@@ -180,8 +180,8 @@ $("document").ready(function() {
 
             //21
             Filler_What5,
-            Filler_Answer21,
-            Filler_INF21,
+            Filler_Answer19,
+            Filler_INF19,
 
             //44
             Filler_HowMany12,
